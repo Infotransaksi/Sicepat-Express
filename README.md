@@ -1,2 +1,0 @@
-# Sicepat-Express
-Kurir paket
